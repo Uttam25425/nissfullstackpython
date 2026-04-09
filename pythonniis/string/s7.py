@@ -3,6 +3,13 @@ s=input()
 c,alp,up,lw,vw,co,dg,sp,sy,wd=0,0,0,0,0,0,0,0,0,0
 for i in s:
 	c=c+1
+
+
+
+
+
+
+	
 	if i.isalpha():
 		alp=alp+1
 		if i.isupper():
